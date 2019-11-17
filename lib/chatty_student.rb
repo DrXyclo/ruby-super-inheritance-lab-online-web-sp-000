@@ -15,4 +15,13 @@ class ChattyStudent < Student
       end
     end
   
+  # alt super
+  #     super
+  #     super
+  #     super
+  #     super
+  #     super
+  #     super
+  
+  
 end
