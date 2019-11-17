@@ -9,7 +9,7 @@ class ChattyStudent < Student
     super
     
     i = 0
-    while i < 11  do
+    while i < 9  do
       puts "Pick me!"
       i +=1
       end
